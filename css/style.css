@@ -1,0 +1,12 @@
+body {
+  background-color: #1a0000;
+  color: white;
+  text-align: center;
+}
+
+.studente {
+  margin: 10px auto;
+  width: 50%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
